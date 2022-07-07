@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Moulina's Personal site</title>
+    </head>
+    <body>
+        <table cellspacing="20">
+            <tr>
+                <td><img src="tunai.png" alt="Moulina's Profile Picture" width="150" height="150">
+                    </td>
+                    <td><h1>Moulina Panday</h1>
+                        <p><em>Student at <strong><a href="https://www.aecwb.edu.in/">Asansol Engineering College</a></strong></em></p>
+                        <p>I am a coding enthusiast knowlegeble in basic C, Java and Python.</p></td>
+            </tr>
+        </table>
+        <hr>
+        <hr>
+        <hr>
+        <img src="D:\tunai realme data backup\pictures\aec\memory lane\.trashed-1656821676-IMG20220524144105.jpg" alt="Moulina's Profile Picture">
+        <h3>Moulina Panday</h3>
+        <p><em>Student at <strong><a href="https://www.aecwb.edu.in/">Asansol Engineering College</a></strong></em></p>
+        <p>I am a coding enthusiast knowlegeble in basic C, Java and Python.</p>
+        <hr>
+        <h3>Work Experience</h3>
+        <table>
+            <thead>
+                <th>Dates</th>
+                <th>Job</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        2007-2019
+                    </td>
+                    <td>Student at St. Joseph's Convent H.S School</td>
+                </tr>
+                <tr>
+                    <td>2019-2021</td>
+                    <td>Student at Kendriya Vidyalaya, Chittaranjan</td>
+                </tr>
+                <tr>
+                    <td>2021-present</td>
+                    <td>Student at Asansol Engineering College</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr>
+        <h3>Skills</h3>
+        <table cellspacing="10">
+            <tr>
+                
+                <td>Java</td>
+                <td>⭐⭐</td>
+            </tr>
+            <tr>
+                
+                <td>Python</td>
+                <td>⭐⭐</td>
+            </tr>
+            <tr>
+                
+                <td>Html</td>
+                <td>⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Touch Typing</td>
+                <td>⭐⭐⭐</td>
+                
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>⭐</td>
+            </tr>
+            <tr>
+                <td>C</td>
+                <td>⭐⭐⭐</td>
+                
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>⭐</td>
+            </tr>
+        </table>
+        <hr>
+        <a href="file:///D:/Desktop/Moulina/web%20development%20bootcamp%20by%20dr.angela%20yu/html/contact.html?name=Hey+there%21">Contact me</a>
+        
+    </body>
+</html>
+
